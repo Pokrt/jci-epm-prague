@@ -1,1 +1,1 @@
-# jci-epm-prague
+# JCI EPM Prague
